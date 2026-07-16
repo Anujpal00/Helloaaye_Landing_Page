@@ -14,7 +14,6 @@ A production-quality monorepo implementation of a SaaS CRM Landing Page integrat
 | **Styling** | Tailwind CSS | Utility-first styling with responsive, dark-mode compatibility |
 | **Validation** | React Hook Form + Yup | Frontend inline notifications and blur validation |
 | **HTTP Client** | Axios | Frontend client connection service instance |
-| **Testing** | Jest + Supertest | Integration tests utilizing in-memory database server |
 | **Containerization** | Docker | Docker Compose setups for client, API server, and MongoDB |
 
 ---
